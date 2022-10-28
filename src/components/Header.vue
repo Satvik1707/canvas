@@ -19,7 +19,7 @@
         <router-link to="/"> My Works </router-link>
       </li>
       <li class="nav-list">
-        <router-link to="/shop">Shop Now</router-link>
+        <router-link to="avyukt.netlify.app">Shop Now</router-link>
       </li>
       <li>
         <a href="">
