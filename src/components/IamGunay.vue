@@ -20,9 +20,7 @@
       <div class="left-column-text">
         <p class="main-text">Scribble here</p>
         <p class="main-text-desc" align="center">Avyukt World</p>
-        <router-link to="/shop">
-          <button class="contact-us">Go to website</button>
-        </router-link>
+        <button class="contact-us" @click="redirect()">Go to website</button>
       </div>
 
       <div class="paint-nav">
@@ -550,6 +548,9 @@ export default {
       this.startPoint = {}
       this.endPoint = {}
       this.drawCtx.beginPath()
+    },
+    redirect() {
+      window.open('https://avyukt.netlify.app')
     }
   }
 }
