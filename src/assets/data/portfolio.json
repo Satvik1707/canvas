@@ -1,0 +1,136 @@
+[
+    { 
+        "name":"Education",
+        "info": [
+            {
+                "name":"Master's Interior and Spatial design",
+                "location":"Politecnico di Milano, Milano, Italy",
+                "date":"2020 - present"
+            },
+            {
+                "name":"Bachelor's Interior design",
+                "location":"IED university, Rome, Italy",
+                "date":"2014 - 2017",
+                "more_info":[
+                    "Relevant courses: Material typology, color theory, drawing, Graphic design, Marketing, Modelling.",
+                    "Thesis design: \"ZahAmaze\". (grade 110/110)",
+                    "GPA: 29.11/30"
+                ]
+            },
+            {
+                "name":"Technical high school",
+                "location":"Lyceum named after academician Zarifa Aliyeva, Baku, Azerbaijan",
+                "date":"2011 - 2014",
+                "more_info":[
+                    "Member of lyceum parliament",
+                    "GPA: 5/5"
+                ]
+            }
+        ]
+    },
+    { 
+        "name":"Proffesional Experience",
+        "info": [
+            {
+                "name":"Interior Architect",
+                "location":"Cobalt Architecture and Design bureau",
+                "date":"Jan, 2020 - Dec, 2020",
+                "more_info":[
+                    "Project design from consept to technical drawings, choice of materials, creation of moodboards.",
+                    "Coordination with architects and engineers for 3d modelling in Revit",
+                    "Site visits with architects and engineers to analize and control design process"
+
+                ]
+            },
+            {
+                "name":"Project manager assistant",
+                "location":"Lala Akkiraz Interiors",
+                "date":"Jan, 2019 - Jan, 2020",
+                "more_info":[
+                    "Interact with clients, trade proffesionals, and staff to communicate and enforce project goals and deadlines",
+                    "Control completion of the phases of design, division task between designers and architects"
+                ]
+            },
+            {
+                "name":"Interior Designer",
+                "location":"Pullna Exclusive Interiors, Pisa, Italy",
+                "date":"Nov, 2018 - Jan, 2019",
+                "more_info":[
+                    "3D modelling of interiors with Rhinocheros",
+                    "Experience in sourcing and have a through knowledge of FF&E",
+                    "Manage multiple projects, ensure all project documentation is complete and accurate with deadline"
+                ]
+            },
+            {
+                "name":"Interior Architect",
+                "location":"Lala Akkiraz Interiors",
+                "date":"Sep, 2017 - Nov, 2018",
+                "more_info":[
+                    "Development of concepts and ideas, considering client's requirements.",
+                    "Development of detailed designs, often using 3dsmax or other 3D imaging software for better understanding by clientele",
+                    "Assists in Architectural Interior Design working with Architects and clients to create detailed drawings"
+                ]
+            },
+            {
+                "name":"Architectural Intern",
+                "location":"Gilan Construction",
+                "date":"Jun, 2016 - Sep, 2016",
+                "more_info":[
+                    "Experienced coordinating project team",
+                    "Involved in analyses of client problems in conceiving and developing architectural solutions to those problems",
+                    "Researched materials to determine appropriate selection for project"
+                ]
+            }
+        ]
+    },
+    { 
+        "name":"Activities & Awards",
+        "info": [
+            {
+                "name":"Awarded scholarship by Azerbaijan Ministry of Education",
+                "location":"",
+                "date":"Jun, 2014"
+            },
+            {
+                "name":"Finalist in Noicons IED contest project in Azerbaijan",
+                "location":"",
+                "date":"Nov, 2016"
+            },
+            {
+                "name":"Thesis project \"ZahAmaze\" was exhibited in \"Multiplied-Temporary exhibition\" in MAXXI museum",
+                "location":"",
+                "date":"Jul, 2017"
+            },
+            {
+                "name":"Silver medal winner in Golden Byte International IT competitiion. UI/UX design",
+                "location":"",
+                "date":"May, 2018"
+            },
+            {
+                "name":"Training in Project Management IED university,Rome,Italy",
+                "location":"",
+                "date":"Jan, 2016 - Jun, 2016"
+            },
+            {
+                "name":"Italian design 50s-60s MAXXI museum",
+                "location":"",
+                "date":"Feb 6, 2016 - Feb 27, 2016"
+            },
+            {
+                "name":"Certificate of HarvardX, Course: The Architectural Immagination ",
+                "location":"",
+                "date":"Oct 18, 2018 - Dec 1, 2018"
+            },
+            {
+                "name":"Finalist in Azerbaijan Design Award",
+                "location":"",
+                "date":"Feb, 2019"
+            },
+            {
+                "name":"Awarded grant by Youth Foundation of Azerbaijan",
+                "location":"",
+                "date":"Oct, 2019"
+            }
+        ]
+    }
+]
